@@ -1,0 +1,13 @@
+{
+  "itemGroup.simplemusic": "Example Mod Tab",
+  "block.simplemusic.example_block": "Example Block",
+  "item.simplemusic.example_item": "Example Item",
+
+  "simplemusic.configuration.title": "SimpleMusic Configs",
+  "simplemusic.configuration.section.simplemusic.common.toml": "SimpleMusic Configs",
+  "simplemusic.configuration.section.simplemusic.common.toml.title": "SimpleMusic Configs",
+  "simplemusic.configuration.items": "Item List",
+  "simplemusic.configuration.logDirtBlock": "Log Dirt Block",
+  "simplemusic.configuration.magicNumberIntroduction": "Magic Number Text",
+  "simplemusic.configuration.magicNumber": "Magic Number"
+}
